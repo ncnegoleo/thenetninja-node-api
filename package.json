@@ -1,0 +1,28 @@
+{
+  "name": "api-one",
+  "version": "1.0.0",
+  "description": "Couse of REST API with MongoDB and NodeJs, of Youtube channel The Net Ninja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncnegoleo/thenetninja-node-api.git"
+  },
+  "keywords": [
+    "rest-api",
+    "mongodb",
+    "node"
+  ],
+  "author": "Leonardo Soares <leonardo.soares.ws@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncnegoleo/thenetninja-node-api/issues"
+  },
+  "homepage": "https://github.com/ncnegoleo/thenetninja-node-api#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
